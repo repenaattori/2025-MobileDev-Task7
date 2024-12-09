@@ -1,0 +1,12 @@
+## Install dependencies
+npm install
+
+## Run tests to check if the answer is correct
+npm test
+
+## Task
+Create a flatlist after the button. Create the logic and states so that
+pressing button adds the textinput in the flatlist like in ListExample.png.
+
+Add property testID='flatlist' for your Flatlist!!!
+
